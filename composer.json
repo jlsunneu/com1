@@ -1,0 +1,18 @@
+{
+    "name": "jlsunml/com1",
+    "description": "composer test com1",
+    "authors": [
+        {
+            "name": "jlsun"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "jlsun\\com1\\": "src/"
+        }
+    }
+}
